@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //code as added in github
             Console.WriteLine("zohaib amin");
+            console.writeline("zohaib");
         }
     }
 }
