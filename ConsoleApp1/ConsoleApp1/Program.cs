@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //code as added in github
+            //code was edited in github
             Console.WriteLine("zohaib amin");
             console.writeline("zohaib");
         }
