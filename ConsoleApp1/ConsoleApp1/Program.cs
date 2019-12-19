@@ -12,7 +12,8 @@ namespace ConsoleApp1
         {
             //code as added in github
             Console.WriteLine("zohaib amin");
-            console.writeline("zohaib");
+            Console.WriteLine("zohaib");
+            //code was added in vs
         }
     }
 }
