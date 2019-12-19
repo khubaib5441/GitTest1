@@ -8,9 +8,8 @@ namespace ConsoleApp1
 {
     class Feature1
     {
-        public int add()
+        public int add(int x1,int x2)
         {
-            var x1 = 1, x2 = 2;
             var sum = x1 + x2;
             return sum;
         }
